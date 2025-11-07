@@ -90,7 +90,7 @@ The assistant responds to you using text-to-speech.
 
 🧑‍💻 Author
 
-👤 Ganapurapu Durga srinath.
+👤 Ganapurapu Durga srinath and Shaik Sameer.
 💬 "Designed and developed this personal assistant using Python for automation, learning, and fun!"
 
 ---
